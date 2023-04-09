@@ -26,7 +26,7 @@ public class Timer {
         }
 
         System.out.println("====================================");
-        System.out.println("|           TIME IS UP             |");
+        System.out.println("|           TIME IS UP. WAKE UP    |");
         System.out.println("====================================");
 
     }
