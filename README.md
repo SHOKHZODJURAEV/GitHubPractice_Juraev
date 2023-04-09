@@ -2,9 +2,7 @@
 
 
 # GitHub Strutegy always create a branch from Master.
-# Merge conflict
-# Let's do it
+# Games
+# I love Java
 # I like home
 # ewrewrewrw
-# Spring is ecosystem. 
-# need to learn Scala. 
