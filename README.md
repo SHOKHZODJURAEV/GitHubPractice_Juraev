@@ -2,4 +2,4 @@
 
 # GitHub Strutegy always create a branch from Master.
 # Hello Guys, how are you ?
-# The project work ?
+# How are you ?
